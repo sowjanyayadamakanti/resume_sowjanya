@@ -1,5 +1,8 @@
 ### RESUME <br>
 ### SOWJANYA YADAMAKANTI <br> 
+**CAREER OBJECTIVE** <br>
+    To work hard with full determination and dedication to achieve organizational as well as personal goals.
+
 **Personal Details** <br>
  - Name : Sowjanya.Y
  - Mailid : sowjanya.reddy072@gmail.com <br>
@@ -27,6 +30,32 @@
   - Percentage : 80%
   - Adddress : Ambadipudi
   
+  **Skills**
+  - C Programming
+  - Python
+  - Html
+  - Django
+   **Certifications** <br>
+  
+   - Participated in internship on WEB LOGIC SERVER in St.Mary’s Group of Institutions.
+   - Participated in workshop on COMPUTATIONAL SYSTEM PROGRAMMING.
+   - Participated in workshop on DESTRO MAKING.
+   - A workshop on LED.
+   
+   **Strengths** <br>
+   - Self-confidence and hard working. <br>
+   - Good in communication and presentation skills. <br>
+   - Flexible and has self-learning ability. <br>
+   - Determination, dedication and discipline. <br>
+   
+   
+
+  
+
+
+
+  
+ 
   
     
     
