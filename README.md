@@ -17,7 +17,7 @@
   - Percentage : 71% <br>
   - Address : Guntur <br>
  
- **diploma**
+ **Diploma**
   - College Name : A.A.N.M & V.V.R.S.R Polytechnic <br>
   - Branch : ECE <br>
   - Year of Pass : 2016
@@ -30,11 +30,19 @@
   - Percentage : 80%
   - Adddress : Ambadipudi
   
+  **Acadamic Projects**
+  - PROJECT TITLE	: A SMART BLIND STICK FOR A VISUALLY IMPAIRED PERSON. <br>
+  - ORGANIZATION	: Academic Project. <br>
+  -   ROLE	: Team Lead. <br>
+  **DESCRIPTION**: <br>
+       In this project, we propose a new intelligent system for guiding individuals who are visually impaired people to find difficulties detecting obstacles in front of them,        during walking in the street which makes it dangerous. So, this can be implemented in a smart stick which is used to help for blind people with ultrasonic sensors to detect      stair-cases and other obstacles in front of the user, within a range of meters. Speech warning messages, vibration motor and buzzer are activated when any obstacle detected
+
   **Skills**
-  - C Programming
-  - Python
-  - Html
-  - Django
+  - C Programming <br>
+  - Python <br>
+  - Html <br>
+  - Django <br>
+  
    **Certifications** <br>
   
    - Participated in internship on WEB LOGIC SERVER in St.Mary’s Group of Institutions.
@@ -49,6 +57,14 @@
    - Determination, dedication and discipline. <br>
    
    
+**Decleration**: <br>
+        I hereby declare that the facts given in resume are correct to best of my knowledge and belief.
+
+
+              Date:
+              Place:
+                                                                                                              (Y.SOWJANYA)
+
 
   
 
